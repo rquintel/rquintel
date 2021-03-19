@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Java Projects
 - 🌱 I’m currently learning Java and Django
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me ...
+- 📫 How to reach me quintella.p.rodrigo@gmail.com
 
 <!---
 rquintel/rquintel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
